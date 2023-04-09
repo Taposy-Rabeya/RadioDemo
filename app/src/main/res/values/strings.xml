@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioDemo</string>
+        <string name="textview">What is your country?</string>
+        <string name="radiobutton1">Bangladesh</string>
+        <string name="radiobutton2">India</string>
+        <string name="radiobutton3">China</string>
+        <string name="radiobutton4">Japan</string>
+        <string name="submit">Submit</string>
+    <string name="button">GIVE RATE</string>
+</resources>
